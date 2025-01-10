@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokeC", "PokeC.csproj", "{1E3C5120-EF06-4019-A4FD-6F5960CA4681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokeC", "PokeC.csproj", "{DE925A98-8A7D-49EF-A145-41286029C48B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E3C5120-EF06-4019-A4FD-6F5960CA4681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E3C5120-EF06-4019-A4FD-6F5960CA4681}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E3C5120-EF06-4019-A4FD-6F5960CA4681}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E3C5120-EF06-4019-A4FD-6F5960CA4681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE925A98-8A7D-49EF-A145-41286029C48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE925A98-8A7D-49EF-A145-41286029C48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE925A98-8A7D-49EF-A145-41286029C48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE925A98-8A7D-49EF-A145-41286029C48B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2B99C123-126F-47B7-910B-AAD8B0E0D6C3}
+		SolutionGuid = {1BB429DE-9695-4703-B696-1DA8C56B1806}
 	EndGlobalSection
 EndGlobal
